@@ -1,3 +1,5 @@
+https://alvinalexander.com/scala/fp-book/how-write-functions-take-function-input-parameters
+
 // Databricks notebook source
 def add(x: Int, y: Int) = x+ y
 print(add(4,5))
